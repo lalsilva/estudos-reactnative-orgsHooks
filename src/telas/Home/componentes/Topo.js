@@ -6,7 +6,7 @@ import logo from '../../../assets/logo.png';
 
 const estilos = StyleSheet.create({
   topo: {
-    backgroundColor: '#f6f6f6',
+    backgroundColor: '#F6F6F6',
     padding: 16,
   },
   imagem: {
@@ -18,10 +18,12 @@ const estilos = StyleSheet.create({
     fontSize: 26,
     lineHeight: 42,
     fontWeight: 'bold',
+    color: '#464646',
   },
   legenda: {
     fontSize: 16,
     lineHeight: 26,
+    color: '#A3A3A3'
   },
 });
 
